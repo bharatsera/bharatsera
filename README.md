@@ -1,16 +1,42 @@
-## Hi there 👋
+# Bharat Sera
+AI Engineer · Game Developer (Unity) · C# & Python
 
-<!--
-**bharatsera/bharatsera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi — I’m Bharat 👋
 
-Here are some ideas to get you started:
+I build intelligent systems, interactive experiences, and developer tools that bridge AI, software engineering, and game development. My work focuses on combining machine learning, automation, and gameplay design to create products and pipelines that are technically strong and easy to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus — Doc Flow
+- Building "Doc Flow": documentation and knowledge automation that turns experiments, code, and assets into searchable, versioned, and AI-augmented documentation.
+- Work includes automated doc generation, embeddings-based search and retrieval, changelog and release doc automation, and CI integrations that keep docs in sync with code and models.
+- Goal: make knowledge discoverable, maintainable, and connected across codebases, models, and game design artifacts.
+
+## What I work on
+- AI/ML systems: data pipelines, model training, evaluation, and deployment.
+- Unity game development: gameplay systems, AI agents, performance tuning (C#).
+- Python tooling and automation: reproducible experiments, data processing, and developer utilities.
+- Documentation & knowledge workflows: embeddings, retrieval, automation, and CI-driven docs.
+
+## Tech stack
+- Languages: Python, C#, SQL
+- Engines & frameworks: Unity, .NET, PyTorch, TensorFlow
+- Tools & infra: Git, Docker, GitHub Actions, REST APIs, Linux
+- Areas of interest: Computer Vision, Reinforcement Learning, Model Serving, Retrieval & Embeddings
+
+## Selected projects
+- `unity-game` — gameplay systems and AI agents built in Unity (C#). Demo GIFs and build instructions in repo.
+- `ml-pipeline` — end-to-end ML pipelines: data → training → evaluation → deployment, with reproducible scripts.
+- `doc-flow` — tooling and services that generate, index, and serve project documentation using embeddings and CI.
+- `py-tools` — reusable Python utilities for data processing, experiments, and automation.
+
+## How I share my work
+- Short demo GIFs and walkthroughs for Unity builds.
+- Repro scripts and clear README steps for ML projects.
+- Open-source tools and examples for doc automation and retrieval.
+
+## Connect
+- GitHub: https://github.com/bharatsera
+- Email: bharatsera@example.com
+- LinkedIn: https://www.linkedin.com/in/your-linkedin
+- Twitter: https://twitter.com/yourhandle
+
+If you like what you see, star a repo or follow for updates — I regularly open-source tools and game prototypes. 🚀

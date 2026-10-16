@@ -27,16 +27,4 @@ I build intelligent systems, interactive experiences, and developer tools that b
 - `ml-pipeline` — end-to-end ML pipelines: data → training → evaluation → deployment, with reproducible scripts.
 - `doc-flow` — tooling and services that generate, index, and serve project documentation using embeddings and CI.
 - `py-tools` — reusable Python utilities for data processing, experiments, and automation.
-
-## How I share my work
-- Short demo GIFs and walkthroughs for Unity builds.
-- Repro scripts and clear README steps for ML projects.
-- Open-source tools and examples for doc automation and retrieval.
-
-## Connect
-- GitHub: https://github.com/bharatsera
-- Email: bharatsera@example.com
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- Twitter: https://twitter.com/yourhandle
-
-If you like what you see, star a repo or follow for updates — I regularly open-source tools and game prototypes. 🚀
+🚀
